@@ -10,7 +10,7 @@
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
 		"maintenance": 2,
-		"requiredTech": "Acoustics",
-		"uniques": ["Destroyed when the city is captured"]
+		"requiredTech": "Acoustics"
+
 	}
 ]
