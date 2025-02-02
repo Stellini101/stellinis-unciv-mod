@@ -4,12 +4,11 @@
 		"culture": 2,
 		"happiness": 2,
 		"uniqueTo": "The Reveliarks",
-		"percentStatBonus": {"culture": 20},
+		"replaces": "Opera House",
 		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"specialistSlots": {"Artist": 2},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
-		"maintenance": 2,
 		"requiredTech": "Acoustics"
 
 	}
