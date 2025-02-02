@@ -10,7 +10,7 @@
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"hurryCostModifier": 20,
-		"attackSound": "metalhit"
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"],
+		"attackSound": "metalhit",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"]
 	}
 ]
