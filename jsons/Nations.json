@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "Is this okay?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,0,0],
+		"innerColor": [255,30,30],
 		"unique": "Way of the Elation",
 		"cities": ["Rinneyville","Opera City","TBA","Sample Text City","Funtopia"]
 	},
