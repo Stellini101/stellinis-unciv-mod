@@ -1,5 +1,38 @@
 [
 	{
+		"name": "The Reveliarks",
+		"leaderName": "Rinney",
+		"adjective": ["Revelians"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "Sample text",
+		
+		"declaringWar": "Sorry, but be prepared for war. We have to do this.",
+		"attacked": "Don't understimate us! We'll show what we have!",
+		"defeated": "So that's how the story goes.",
+		"introduction": "Heya friend! I'm Rinney of the Reveliarks. Wanna do some trade?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "Is this okay?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "Way of the Elation",
+		"cities": ["Rinneyville","Opera City","TBA","Sample Text City","Funtopia"]
+	},
+	{
 		"name": "Aliens",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
