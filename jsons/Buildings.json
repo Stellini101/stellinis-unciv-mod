@@ -3,8 +3,9 @@
 		"name": "Performance School",
 		"culture": 2,
 		"happiness": 2,
-		"percentStatBonus": {"culture": 20}
-		"uniques": ["[+25]% Great Person generation [in this city]"]
+		"uniqueTo": "The Reveliarks",
+		"percentStatBonus": {"culture": 20},
+		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"specialistSlots": {"Artist": 2},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
