@@ -30,7 +30,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,30,30],
 		"uniqueName": "Way of the Elation",
-		"uniques":["[+1 Happiness] from every [Great Improvement]","[+1 Culture] from every [Great Improvement]","[50]% of excess [Happiness] converted to [Culture]"],
+		"uniques":["[+1 Happiness] from every [Great Improvement]","[+1 Culture] from every [Great Improvement]","[50]% of excess happiness converted to [Culture]"],
 		"cities": ["Rinneyville","Epiclopolis","Irisia","TBA","Sample Text City","Placeholder City"]
 	}
 ]
