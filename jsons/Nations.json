@@ -32,12 +32,13 @@
 		"uniqueName": "Way of the Elation",
 		"uniques":["[+1 Happiness] from every [Great Improvement]","[+1 Culture] from every [Great Improvement]","[50]% of excess happiness converted to [Culture]"],
 		"cities": ["Rinneyville","Epiclopolis","Irisia","TBA","Sample Text City","Placeholder City"]
-	}
+	},
 	{
 		
   "name": "Altrolica",
   "leaderName": "ChatGPT",
   "adjective": ["Altrolians"],
+		"startBias": ["Tundra","Hill"],
   "preferredVictoryType": "Science",
   
   "startIntroPart1": "Greetings, explorer of ideas!",
