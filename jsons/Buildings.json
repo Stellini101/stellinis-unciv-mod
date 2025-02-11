@@ -11,5 +11,18 @@
 		"requiredBuilding": "Amphitheater",
 		"requiredTech": "Acoustics"
 
-	}
+	},
+	{
+    "name": "AI Learner",
+    "cost": 420,
+    "uniqueTo": "Altrolica",
+    "replaces": "Public School",
+    "percentStatBonus": {"science": 20},
+    "specialistSlots": {"Scientist": 2},
+    "requiredBuilding": "University",
+    "maintenance": 2,
+    "hurryCostModifier": 10,
+    "requiredTech": "Scientific Theory",
+    "uniques": ["[+2 Science] from [Tundra] tiles [in this city]"]
+  }
 ]
