@@ -33,7 +33,7 @@
 	"uniqueTo": "The Deepseekers",
 	"production": 4,
 	"specialistSlots": {"Engineer": 2},
-	"uniques": ["[+15%] Happiness [in this city]"],
+	"uniques": ["[+15]% Happiness [in this city]"],
 	"requiredResource": "Coal",
 	"requiredTech": "Industrialization",
 	"maintenance": 3
