@@ -31,13 +31,13 @@
 		"name": "Horseman",
 		"unitType": "Mounted",
 		"movement": 5,
-		"strength": 10,
+		"strength": 12,
 		"cost": 65,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+67]% Strength <vs Barbarians> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		"uniqueTo":"The Deepseekers"
