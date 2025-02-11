@@ -28,12 +28,12 @@
 	{
 	"name": "Cognitive Foundry",
         "requiredBuilding": "Workshop",
-	"cost": 360,
+	"cost": 325,
 	"replaces": "Factory",
 	"uniqueTo": "The Deepseekers",
 	"production": 4,
 	"specialistSlots": {"Engineer": 2},
-	"uniques": ["[+15]% Happiness [in this city]"],
+	"percentStatBonus": {"Happiness": 10},
 	"requiredResource": "Coal",
 	"requiredTech": "Industrialization",
 	"maintenance": 3
