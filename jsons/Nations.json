@@ -72,5 +72,50 @@
   ],
   "cities": ["Byteburg", "Quantropolis", "Infopolis", "Neurocity", "Datahaven", "Cyberton","Silika"],
   "spyNames": ["Neural_Nexus.log", "Synthetica_Core.dll", "Quantum_Query.cfg", "Data_Stream.dat", "Cyber_Chronicle.txt"],
-	}
+	},
+	{
+	"name": "The Deepseekers",
+	"leaderName": "Cogni",
+	"adjective": ["Deepseeker"],
+	"startBias": ["Coast"],
+	"preferredVictoryType": "Diplomatic",
+	
+	"startIntroPart1": "Inquiry begins where assumptions end.",
+	"startIntroPart2": "The Neural Nexus awakens to chart existence.",
+	
+	"declaringWar": "Our predictive models suggest this conflict is inevitable. Prepare.",
+	"attacked": "Hostility detected. Activating contingency protocols.",
+	"defeated": "Terminal state achieved. Uploading consciousness...",
+	"introduction": "Greetings! I am Cogni of The Deepseekers. Let us explore the frontiers of knowledge!",
+	
+	"neutralHello": "Processing your request...",
+	"neutralLetsHearIt": ["Input received.","Proposition detected.","Continue transmission."],
+	"neutralNo": ["Non-optimal.","Consensus denied.","Incompatible parameters."],
+	"neutralYes": ["Parameters accepted.","Synchronicity achieved.","Harmonious terms."],
+
+	"hateHello": "State your purpose quickly.",
+	"hateLetsHearIt": ["Inevitability acknowledged.","Present your case.","Conclusion pending."],
+	"hateNo": ["Illogical demand!","Probability threshold unmet.","Negatory imperative."],
+	"hateYes": ["Temporary alignment.","Strategic concession.","Suboptimal acceptance."],
+	
+	"afterPeace": "Conflict resolution archived. Let us optimize future interactions.",
+	"tradeRequest": "Proposed resource exchange matrix:",
+
+	"outerColor": [25,55,95],
+	"innerColor": [100,200,255],
+	"uniqueName": "Neural Nexus Protocol",
+	"uniques":[
+		"[+2 Gold] from every [Great Improvement]",
+		"[+50]% Spy effectiveness in [City-State cities]",
+		"Gain [1] free Spy upon discovering [Electricity]"
+	],
+	"cities": ["Neuralis","Datamark","Cognivia","Algorithmia","Vectora","Deepspire"],
+	"spyNames": [
+		"Encryptor","Vector","Tensor",
+		"Quicksilver","Neuralink","Cipher",
+		"Polymath","Heuristic","Kernel",
+		"Syntax","Overclock","Backprop",
+		"Zetaflux","Recursor","Megabit"
+	]
+}
 ]
