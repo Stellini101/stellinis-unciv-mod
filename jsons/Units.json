@@ -15,11 +15,12 @@
 	},
 	{
   "name": "Sanitized Infantry",
+   "cost": 375,
   "uniqueTo": "Altrolica",
   "replaces": "Infantry",
   "unitType": "Gunpowder",
   "movement": 2,
-  "strength": 66,
+  "strength": 70,
   "requiredTech": "Electronics",
   "hurryCostModifier": 20,
   "attackSound": "gdrAttack",
@@ -28,16 +29,17 @@
 "promotions": ["March","Drill I"]
 },
 	{
-		"name": "Horseman",
+		"name": "Raider Cavalry",
 		"unitType": "Mounted",
-		"movement": 5,
-		"strength": 12,
-		"cost": 65,
+		"movement": 6,
+		"strength": 10,
+		"replaces": "Horseman",
+		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% Strength <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		"uniqueTo":"The Deepseekers"
