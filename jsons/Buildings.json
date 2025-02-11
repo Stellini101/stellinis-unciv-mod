@@ -14,13 +14,12 @@
 	},
 	{
     "name": "AI Learner",
-    "cost": 420,
     "uniqueTo": "Altrolica",
     "replaces": "Public School",
     "percentStatBonus": {"science": 20},
     "specialistSlots": {"Scientist": 2},
     "requiredBuilding": "University",
-    "maintenance": 2,
+    "maintenance": 3,
     "hurryCostModifier": 10,
     "requiredTech": "Scientific Theory",
     "uniques": ["[+2 Science] from [Tundra] tiles [in this city]"]
@@ -37,5 +36,6 @@
 	"requiredResource": "Coal",
 	"requiredTech": "Industrialization",
 	"maintenance": 3
+	"uniques":["[+15]% [Happiness] [in this city]"]
 }
 ]
