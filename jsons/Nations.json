@@ -68,7 +68,7 @@
   "uniques": [
     "[+2 Science] from every [Library]",
     "[+1 Production] from every [Research Lab]",
-    "[+10]% Science during a [Golden Age]"
+    "[+10]% Science <during a [Golden Age]>"
   ],
   "cities": ["Byteburg", "Quantropolis", "Infopolis", "Neurocity", "Datahaven", "Cyberton","Silika"],
   "spyNames": ["Neural_Nexus.log", "Synthetica_Core.dll", "Quantum_Query.cfg", "Data_Stream.dat", "Cyber_Chronicle.txt"],
@@ -106,7 +106,7 @@
 	"uniqueName": "Neural Nexus Protocol",
 	"uniques":[
 		"[+2 Gold] from every [Great Improvement]",
-		"[+50]% Spy effectiveness [in City-State cities]",
+		"[+50]% Spy effectiveness <in [City-State cities]>",
 		"Gain an extra Spy <upon discovering [Electricity]>"
 	],
 	"cities": ["Neuralis","Datamark","Cognivia","Algorithmia","Vectora","Deepspire"],
