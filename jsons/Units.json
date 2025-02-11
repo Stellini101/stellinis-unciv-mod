@@ -26,5 +26,21 @@
   "uniques": [
     "Earn [100]% of killed [Military] unit's [Strength] as [Science]"],
 "promotions": ["March","Drill I"]
-}
+},
+	{
+		"name": "Horseman",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 10,
+		"cost": 65,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+67]% Strength <vs Barbarians> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+		"uniqueTo":"The Deepseekers"
+
+	}
 ]
