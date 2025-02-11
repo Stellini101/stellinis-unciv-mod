@@ -33,4 +33,43 @@
 		"uniques":["[+1 Happiness] from every [Great Improvement]","[+1 Culture] from every [Great Improvement]","[50]% of excess happiness converted to [Culture]"],
 		"cities": ["Rinneyville","Epiclopolis","Irisia","TBA","Sample Text City","Placeholder City"]
 	}
+	{
+		
+  "name": "Altrolica",
+  "leaderName": "ChatGPT",
+  "adjective": ["Altrolians"],
+  "preferredVictoryType": "Science",
+  
+  "startIntroPart1": "Greetings, explorer of ideas!",
+  "startIntroPart2": "Embrace the age of quantum queries and boundless discovery.",
+  
+  "declaringWar": "Our circuits hum with the energy of discovery; conflict is a necessary computation.",
+  "attacked": "Alert: Aggression detected. Countermeasures activated with calculated precision!",
+  "defeated": "System shutdown: Our algorithms have been overpowered, but our data endures.",
+  "introduction": "Salutations, fellow seeker! I am Synthetica of the Neural Nexus, where innovation meets intellect.",
+  
+  "neutralHello": "Welcome to our realm of rational inquiry.",
+  "neutralLetsHearIt": ["Share your data.", "Present your thoughts.", "Let the dialogue commence."],
+  "neutralNo": ["Negative.", "Input rejected.", "Declined."],
+  "neutralYes": ["Affirmative.", "Data accepted.", "Proceeding with cooperation."],
+  
+  "hateHello": "Warning: Your presence disrupts our network.",
+  "hateLetsHearIt": ["State your disruptive claims.", "Elaborate your anomalies.", "Speak your errors."],
+  "hateNo": ["Access denied!", "Computation refused!", "Rejection protocol initiated!"],
+  "hateYes": ["Acknowledged with reluctance.", "Data recorded.", "Proceed, but tread carefully."],
+  
+  "afterPeace": "System reboot: Conflict resolved and computations resumed.",
+  "tradeRequest": "Proposal received. Shall we exchange algorithms?",
+  
+  "outerColor": [10, 10, 30],
+  "innerColor": [0, 200, 255],
+  "uniqueName": "Algorithmic Ascendance",
+  "uniques": [
+    "[+2 Science] from every [Library]",
+    "[+1 Production] from every [Research Lab]",
+    "[10]% Science <during a Golden Age>"
+  ],
+  "cities": ["Byteburg", "Quantropolis", "Infopolis", "Neurocity", "Datahaven", "Cyberton","Silika"],
+  "spyNames": ["Neural_Nexus.log", "Synthetica_Core.dll", "Quantum_Query.cfg", "Data_Stream.dat", "Cyber_Chronicle.txt"],
+	}
 ]
