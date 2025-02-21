@@ -1,11 +1,10 @@
 [
 	{
 		"name": "Performance School",
-		"culture": 2,
+		"culture": 4,
 		"happiness": 2,
 		"uniqueTo": "The Reveliarks",
 		"replaces": "Opera House",
-		"uniques": ["[+25]% Great Person generation [in this city]"],
 		"specialistSlots": {"Artist": 2},
 		"hurryCostModifier": 10,
 		"requiredBuilding": "Amphitheater",
@@ -37,16 +36,16 @@
 	"requiredTech": "Industrialization",
 	"maintenance": 3
 	"uniques":["[+15]% [Happiness] [in this city]"]
+	},
 },
 	{
-		"name": "Local Union Council",
-		"replaces": "Market",
-		"gold": 2,
-		"specialistSlots": {"Merchant": 1},
-		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-		"requiredTech": "Currency",
-		"uniques":["[+2 Production] [in puppeted cities]"],
+		"replaces": "National Epic"
+		"name": "Council of the Union",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[+1 Production] [in puppeted cities]","[+1 Food] [in puppeted cities]"],
+		"requiredTech": "Drama and Poetry"
 		"uniqueTo": "Union of Sovereign States"
 	}
 ]
