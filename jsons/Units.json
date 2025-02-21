@@ -11,7 +11,7 @@
 		"upgradesTo": "Longswordsman",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit",
-		"uniques": ["Earn [200]% of killed [Military] unit's [Strength] as [Culture]"]
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"]
 	},
 	{
   "name": "Sanitized Infantry",
@@ -43,6 +43,16 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		"uniqueTo":"The Deepseekers"
-
+	},
+	{
+		"name": "Pioneer",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new puppeted city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20,
+		"replaces": "Settler",
+		"uniqueTo":"Union of Sovereign States"
 	}
 ]
