@@ -68,8 +68,7 @@
   "uniques": [
     "[+2 Science] from every [Library]",
     "[+1 Production] from every [Research Lab]",
-    "[+10]% [Science] [in all non-occupied cities] <during a Golden Age>"
-  ],
+    "[+10]% [Science] [in all non-occupied cities] <during a Golden Age>"],
   "cities": ["Byteburg", "Quantropolis", "Infopolis", "Neurocity", "Datahaven", "Cyberton","Silika"],
   "spyNames": ["Neural_Nexus.log", "Synthetica_Core.dll", "Quantum_Query.cfg", "Data_Stream.dat", "Cyber_Chronicle.txt"],
 	},
@@ -134,10 +133,6 @@
 		"introduction": "My name is Daniel Smith, the President of the USS. Hope we can be great allies in the future.",
 		
 		"neutralHello": "Hello there.",
-
-
-
-		
 		"afterPeace": "Finally we are at peace. I hope that our relation could sweeten in the future.",
 		"tradeRequest": "I think this deal is the best for both of us.",
 
