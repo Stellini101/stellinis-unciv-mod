@@ -37,5 +37,16 @@
 	"requiredTech": "Industrialization",
 	"maintenance": 3
 	"uniques":["[+15]% [Happiness] [in this city]"]
-}
+},
+	{
+		"name": "Local Union Council",
+		"replaces": "Market",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"requiredTech": "Currency",
+		"uniques":["[+2 Production] <in puppeted cities>"],
+		"uniqueTo": "Union of Sovereign States"
+	}
 ]
