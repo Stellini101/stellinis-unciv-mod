@@ -138,13 +138,13 @@
 
 
 		
-		"afterPeace": "Finally, peace for two of us.",
-		"tradeRequest": "I think this deal is the best for both of us?",
+		"afterPeace": "Finally we are at peace. I hope that our relation could sweeten in the future.",
+		"tradeRequest": "I think this deal is the best for both of us.",
 
 		"outerColor": [255,255,255],
 		"innerColor": [96,188,235],
 		"uniqueName": "Unity and Autonomy",
 		"uniques":["May not annex cities,[+2] Happiness <in puppeted cities>"],
-		"cities": ["New Home","Summerfields","Paintbrush","Fort Sunrise","Danieltown","Goldhills","Camp Brownforest"]
+		"cities": ["New Home","Summerfields","Paintbrush","Fort Sunrise","Danieltown","Goldhills","Camp Brownforest","Kung Island","Nakornthand","Manlake"]
 	}
 ]
