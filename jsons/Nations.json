@@ -139,7 +139,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [96,188,235],
 		"uniqueName": "Unity and Autonomy",
-		"uniques":["May not annex cities","[+2 Happiness] [in puppeted cities]"],
+		"uniques":["Cannot build [Settler] units","May not annex cities","[+2 Happiness] [in puppeted cities]"],
 		"cities": ["New Home","Summerfields","Paintbrush","Fort Sunrise","Danieltown","Goldhills","Camp Brownforest","Kung Island","Nakornthand","Manlake"]
 	}
 ]
