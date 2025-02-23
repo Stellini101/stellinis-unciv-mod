@@ -39,7 +39,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+33]% Strength <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","[+50]% Strength <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 		"uniqueTo":"The Deepseekers"
@@ -47,9 +47,10 @@
 	{
 		"name": "Pioneer",
 		"unitType": "Civilian",
+		"replaces": "Settler",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["Founds a new puppet city <by consuming this unit>", "Excess Food converted to Production when under construction",
+		"uniques": ["Founds a new city <by consuming this unit> <if [Palace] is not constructed>","Founds a new puppet city <by consuming this unit> <if [Palace] is constructed>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20,
 		
