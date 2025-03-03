@@ -44,7 +44,7 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[+1 Production] [in puppeted cities]","[+1 Food] [in puppeted cities]"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[-25]% City-State Influence degradation","Allied City-States provide [Production] equal to [25]% of what they produce for themselves","Allied City-States provide [Food] equal to [25]% of what they produce for themselves"],
 		"requiredTech": "Drama and Poetry"
 		"uniqueTo": "Union of Sovereign States"
 	}
