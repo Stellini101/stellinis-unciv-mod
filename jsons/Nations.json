@@ -122,7 +122,7 @@
 		"leaderName": "Daniel Smith",
 		"adjective": ["Unioners"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Hello there Daniel Smith! After he saw his old city be raided by the Newark Empire, Daniel decided to create the Union of Sovereign States, a confederation from many smaller states. Now, the USS is a great power, and the citizens are living better than ever. ",
 		"startIntroPart2": "Now as the president beloved by all, would you be able to lead the Union into the future?",
@@ -139,7 +139,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [96,188,235],
 		"uniqueName": "Unity and Autonomy",
-		"uniques":["May not annex cities","[+1 Happiness] [in puppeted cities]"],
+		"uniques":["[-25]% City-State Influence degradation","Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
 		"cities": ["New Home","Summerfields","Paintbrush","Fort Sunrise","Danieltown","Goldhills","Camp Brownforest","Kung Island","Nakornthand","Manlake","Fishbeak","Mosaville"]
 	}
 ]
