@@ -141,5 +141,30 @@
 		"uniqueName": "Unity and Autonomy",
 		"uniques":["[-25]% City-State Influence degradation","Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
 		"cities": ["New Home","Summerfields","Paintbrush","Fort Sunrise","Danieltown","Goldhills","Camp Brownforest","Kung Island","Nakornthand","Manlake","Fishbeak","Mosaville"]
+	},
+	{
+		"name": "Heavenly Army",
+		"leaderName": "TBA",
+		"adjective": ["Unioners"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "TBA",
+		"startIntroPart2": "TBA",
+		
+		"declaringWar": "Prepare for war! Your warmongering behavior won't go unpunished.",
+		"attacked": "Aggressor, our united army shall teach you not to mess with Us!",
+		"defeated": "The Union might be gone, but the people and culture of use shall last.",
+		"introduction": "My name is Daniel Smith, the President of the USS. Hope we can be great allies in the future.",
+		
+		"neutralHello": "Hello there.",
+		"afterPeace": "Finally we are at peace. I hope that our relation could sweeten in the future.",
+		"tradeRequest": "I think this deal is the best for both of us.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [96,188,235],
+		"uniqueName": "Religious Pioneers",
+		"uniques":["May not annex cities, [+2 Faith] [in puppeted cities]"],
+		"cities": ["Jeopolis"]
 	}
 ]
