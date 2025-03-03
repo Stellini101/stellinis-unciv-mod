@@ -54,6 +54,21 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20,
 		
-		"uniqueTo":"Union of Sovereign States"
+		"uniqueTo":"Heavenly Army"
+	},{
+		"name": "Militia Archer",
+		"unitType": "Archery",
+		"replaces": "Composite Bowman",
+		"strength": 9,
+		"rangedStrength": 11,
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["[+1] Sight","All adjacent units heal [+5] HP when healing"],
+		"hurryCostModifier": 20,
+		"uniqueTo":"Union of Sovereign States",
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
 	}
 ]
