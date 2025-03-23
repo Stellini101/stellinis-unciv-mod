@@ -31,7 +31,7 @@
 		"innerColor": [255,30,30],
 		"uniqueName": "Way of the Elation",
 		"uniques":["[+2 Happiness] from every [Great Improvement]","[+2 Culture] from every [Great Improvement]"],
-		"cities": ["Rinneyville","Epiclopolis","Irisia","TBA","Sample Text City","Placeholder City"]
+		"cities": ["Juliegrad","Epikroliv","Irisva","Estad da Couler","Clearpearl","Rinneyville","Sant Lehna","Birchspring","Porta da Paiche"]
 	},
 	{
 		
@@ -129,7 +129,7 @@
 		
 		"declaringWar": "Prepare for war! Your warmongering behavior won't go unpunished.",
 		"attacked": "Aggressor, our united army shall teach you not to mess with Us!",
-		"defeated": "The Union might be gone, but the people and culture of use shall last.",
+		"defeated": "The Union might be gone, but the people and culture of ours shall last.",
 		"introduction": "My name is Daniel Smith, the President of the USS. Hope we can be great allies in the future.",
 		
 		"neutralHello": "Hello there.",
@@ -139,14 +139,13 @@
 		"outerColor": [255,255,255],
 		"innerColor": [96,188,235],
 		"uniqueName": "Unity and Autonomy",
-		"uniques":["[-25]% City-State Influence degradation","Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
-		"cities": ["New Home","Summerfields","Paintbrush","Fort Sunrise","Danieltown","Goldhills","Camp Brownforest","Kung Island","Nakornthand","Manlake","Fishbeak","Mosaville"]
+		"uniques":["[-25]% City-State Influence degradation","Militaristic City-States grant units [2] times as fast when you are at war with a common nation","Resting point for Influence with City-States is increased by [15]"],
+		"cities": ["New Home","Summerfields","Paintbrush","Fort Sunrise","Danieltown","Goldhills","Camp Brownforest","Kung Island","Nakornthand","Manlake","Fishbeak","Mozaville"]
 	},
 	{
-		"name": "Heavenly Army",
+		"name": "Salvation Order",
 		"leaderName": "TBA",
-		"adjective": ["Unioners"],
-		"startBias": ["Grassland"],
+		"adjective": ["Salvators"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "TBA",
@@ -154,17 +153,17 @@
 		
 		"declaringWar": "Prepare for war! Your warmongering behavior won't go unpunished.",
 		"attacked": "Aggressor, our united army shall teach you not to mess with Us!",
-		"defeated": "The Union might be gone, but the people and culture of use shall last.",
-		"introduction": "My name is Daniel Smith, the President of the USS. Hope we can be great allies in the future.",
+		"defeated": "TBA",
+		"introduction": "We are the Salvation Order. May the lord be with you.",
 		
 		"neutralHello": "Hello there.",
 		"afterPeace": "Finally we are at peace. I hope that our relation could sweeten in the future.",
 		"tradeRequest": "I think this deal is the best for both of us.",
 
-		"outerColor": [255,255,255],
-		"innerColor": [96,188,235],
+		"outerColor": [255,253,110],
+		"innerColor": [255,255,235],
 		"uniqueName": "Religious Pioneers",
-		"uniques":["May not annex cities, [+2 Faith] [in puppeted cities]"],
-		"cities": ["Jeopolis"]
+		"uniques":["May not annex cities", "[+2 Faith] [in puppeted cities]","[-25]% Culture cost of natural border growth [in puppeted cities]"],
+		"cities": ["Silvador","St. Hoseil","St. Pauruo","St. Oliwera","Ekarobri","Dporobri","Trairobri","Destino"]
 	}
 ]
