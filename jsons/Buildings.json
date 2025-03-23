@@ -44,8 +44,20 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[-25]% City-State Influence degradation","Allied City-States provide [Production] equal to [25]% of what they produce for themselves","Allied City-States provide [Food] equal to [25]% of what they produce for themselves"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city","[-25]% City-State Influence degradation","Allied City-States provide [Culture] equal to [25]% of what they produce for themselves","Allied City-States provide [Science] equal to [25]% of what they produce for themselves"],
 		"requiredTech": "Drama and Poetry"
 		"uniqueTo": "Union of Sovereign States"
+	},
+	{
+		"replaces": "Grand Temple",
+		"name": "Great Cathredal",
+		"cost": 125,
+		"culture": 1,
+		"faith": 8,
+		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>","[+2] Happiness <in cities following our religion>"],
+		"requiredTech": "Theology",
+		"isNationalWonder": true,
+		"uniqueTo": "Salvation"
 	}
 ]
