@@ -58,6 +58,6 @@
 			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>","[+2] Happiness <in cities following our religion>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true,
-		"uniqueTo": "Salvation"
+		"uniqueTo": "Salvation Order"
 	}
 ]
